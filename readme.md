@@ -41,12 +41,13 @@ Définit un budget mensuel pour chaque catégorie. Visualisation claire avec gra
 
 # Prochainement : 
 - Système de notifications ("Vous avez 20 transactions à catégoriser")
-- Ajouter de la catégorisation automatique (Eviter que l'utilisateur ait à catégoriser chaque mois les dépenses régulières)
-- Vue du budget Annuel (Offrir la possibilité de prendre encore plus de recul)
+- Ajouter de la catégorisation automatique (Eviter que l'utilisateur ait à catégoriser chaque mois les mêmes dépenses)
+- Vue du budget annuel (Offrir la possibilité de prendre du recul sur l'année)
 - Centraliser Investissement/Emprunt
 
 # Me contacter : 
 Pour plus de détails, vous pouvez me contacter, je serais ravi de répondre à vos questions : 
+
 [Linkedin](https://www.linkedin.com/in/simon-goudeau/)
 
 goudeau.simon@gmail.com
