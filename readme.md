@@ -48,4 +48,5 @@ Définit un budget mensuel pour chaque catégorie. Visualisation claire avec gra
 # Me contacter : 
 Pour plus de détails, vous pouvez me contacter, je serais ravi de répondre à vos questions : 
 [Linkedin](https://www.linkedin.com/in/simon-goudeau/)
+
 goudeau.simon@gmail.com
